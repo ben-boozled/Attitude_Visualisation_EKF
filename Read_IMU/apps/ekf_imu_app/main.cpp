@@ -1,6 +1,6 @@
 /** 
  * @file main.cpp
- * @brief ESP-IDF application used filter the ISM330DLC IMU measurements with an extended Kalman
+ * @brief ESP-IDF application that filters the ISM330DLC IMU measurements with an extended Kalman
  *        filter. Returns orientation in quaternions.
  **/
 
