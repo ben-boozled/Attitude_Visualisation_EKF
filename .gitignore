@@ -1,0 +1,16 @@
+# 1. Programming Environment / Dependency / IDE Folders
+Read_IMU/.vscode/
+.vscode/
+
+# 2. Build Directories/Binaries
+Read_IMU/build/
+Read_IMU/sdkconfig
+Attitude_Visualiser/build/
+Attitude_Visualiser/out/
+
+# 3. Third Party Libraries
+Read_IMU/libs/
+Attitude_Visualiser/libs/
+
+# 4. Others
+Read_IMU/.clangd
